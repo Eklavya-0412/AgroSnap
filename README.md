@@ -62,7 +62,7 @@ You can run AgroSnap using the **Streamlit** interface (recommended for the full
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/agrosnap.git
+    git clone https://github.com/Eklavya-0412/AgroSnap.git 
     cd agrosnap
     ```
 
